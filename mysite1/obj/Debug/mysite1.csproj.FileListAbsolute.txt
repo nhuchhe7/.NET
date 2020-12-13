@@ -1,0 +1,6 @@
+c:\users\munez\documents\visual studio 2013\Projects\mysite1\mysite1\bin\mysite1.dll.config
+c:\users\munez\documents\visual studio 2013\Projects\mysite1\mysite1\bin\mysite1.dll
+c:\users\munez\documents\visual studio 2013\Projects\mysite1\mysite1\bin\mysite1.pdb
+c:\users\munez\documents\visual studio 2013\Projects\mysite1\mysite1\obj\Debug\mysite1.csprojResolveAssemblyReference.cache
+c:\users\munez\documents\visual studio 2013\Projects\mysite1\mysite1\obj\Debug\mysite1.dll
+c:\users\munez\documents\visual studio 2013\Projects\mysite1\mysite1\obj\Debug\mysite1.pdb
